@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvncrypt",
+        "uuid": 6070533,
+        "checksum": "joab1v"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
